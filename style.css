@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Young Serif", serif;
+  }
+
+.container{
+    padding: 30px;
+}
+
+.sec1{
+    background-color: black;
+    color: aliceblue;
+    padding: 25px;
+}
+
+.sec1__c{
+    background-color: orangered;
+    color: aliceblue;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.sec1__n{
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.sec1__rl{
+    font-size: 30px;
+}
+
+.sec2,.sec3,.sec4,.sec5{
+    margin-top: 20px;
+}
+
+.sec2__tt,.sec3__tt,.sec4__tt,.sec5__tt{
+    margin-top: 10px;
+}
+
+.sec2__dc{
+    text-align: justify;
+}
+
+.sec3__dc li,.sec4__dc li{
+    list-style: none;
+}
+
+.sec3{
+    background-color: #6462fd;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 15%;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.sec4{
+    background-color: #fe7517;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 75%;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.sec5{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.sec5__tt a{
+    color: skyblue;
+}
+
+.sec5__dc{
+    margin-top: 10px;
+}
+
+.cf{
+    margin-top: 10px;
+}
+
+.cf__ip,.cf__ta,.cf__sub{
+    margin-top: 10px;
+}
+
+.cf__ip{
+    padding: 10px;
+    border: none;
+    border-bottom: solid 1px black;
+}
+
+.cf__ta{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+
+.cf__sub{
+    background-color: orangered;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+}
